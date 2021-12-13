@@ -1,0 +1,65 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.h1startpage {
+  text-align: center;
+  margin-top: 60px;
+}
+  .container2{
+    max-width: 400px;
+    margin: 0 auto; 
+  }
+
+  .containerButton{
+    margin: 90px auto; 
+    text-align: center;
+  
+  }
+
+  .container2 h1{
+    color:black;
+  }
+
+  input[type=text],
+  input[type=text]:focus{
+    color: #fff;
+    border: none;
+    background: rgba(0,0,0,0.2);
+    max-width: 400px;
+  }
+  .todos li{
+    background: #423a6f;
+  }
+  .delete{
+    cursor: pointer;
+  }
+
+  .list-group-item  {
+      color: #fff!important; 
+  }
+
+  .filtered {
+      display: none !important;
+  }
+
+  .quizClass {
+    display: none;
+  }
+
+  .quizClassShow {
+    display: block;
+  }
+
+  .todoClass {
+    display: none;
+  }
+
+  .todoClassShow {
+    display: block;
+  }
+
+  .btn-hide {
+    display: none; 
+  }
